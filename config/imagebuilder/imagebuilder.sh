@@ -198,7 +198,7 @@ rebuild_firmware() {
         \
         luci luci-base luci-compat luci-lib-base \
         luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio luci-mod-admin-full luci-mod-network \
-        luci-mod-status luci-mod-system luci-proto-ipip luci-proto-ipv6 luci-proto-ppp \
+        luci-mod-status luci-mod-system luci-proto-ipv6 luci-proto-ppp \
         \
         luci-app-amlogic \
         \
