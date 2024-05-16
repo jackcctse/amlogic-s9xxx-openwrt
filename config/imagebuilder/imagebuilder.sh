@@ -193,7 +193,7 @@ rebuild_firmware() {
         liblucihttp-lua losetup lsattr lsblk lscpu mount-utils openssl-util parted \
         perl-http-date perlbase-file perlbase-getopt perlbase-time perlbase-unicode perlbase-utf8 \
         pigz resize2fs tar ttyd tune2fs \
-        uhttpd uhttpd-mod-ubus unzip wget-ssl whereis \
+        uhttpd uhttpd-mod-ubus unzip usb-modeswitch wget-ssl whereis \
         which wpad-basic zoneinfo-asia zoneinfo-core \
         \
         luci luci-base luci-compat luci-lib-base \
