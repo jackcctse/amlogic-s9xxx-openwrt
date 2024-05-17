@@ -185,7 +185,7 @@ rebuild_firmware() {
 
     # Selecting default packages, lib, theme, app and i18n, etc.
      my_packages="\
-        acpid attr base-files bash bc blkid block-mount blockd busybox \
+        acpid attr base-files bash bc blkid block-mount blockd btrfs-progs busybox \
         cgi-io chattr coreutils coreutils-base64 coreutils-nohup \
         coreutils-truncate curl dosfstools dumpe2fs e2freefrag e2fsprogs \
         exfat-mkfs fdisk gawk getopt gzip hostapd-common iconv iw iwinfo jq \
